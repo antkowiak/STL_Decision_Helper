@@ -3,7 +3,7 @@
 // main.cpp - Program to help you decide which c++ standard library container
 // is appropriate for you.
 //
-// Written by Ryan Antkowiak (antkowiak@gmail.com)
+// Written by Ryan Antkowiak 
 //
 
 #include <cstdlib>
